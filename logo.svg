@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 130" role="img" aria-labelledby="t">
+  <title id="t">Brundin Builders</title>
+  <g fill="none" stroke="#1b2a47" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M62 62L120 18L178 62" stroke-width="9"/>
+    <path d="M152 36V20h10v24" stroke-width="6"/>
+    <g stroke-width="2.4">
+      <path d="M84 52V62M92 46V62M100 40V62M140 40V62M148 46V62M156 52V62"/>
+    </g>
+  </g>
+  <g fill="#1b2a47">
+    <rect x="110" y="36" width="9" height="9"/><rect x="121" y="36" width="9" height="9"/>
+    <rect x="110" y="47" width="9" height="9"/><rect x="121" y="47" width="9" height="9"/>
+  </g>
+  <text x="120" y="98" text-anchor="middle" font-family="Rockwell, 'Roboto Slab', Georgia, serif" font-weight="700" font-size="38" fill="#1b2a47" letter-spacing="1">BRUNDIN</text>
+  <path d="M22 112H56M184 112H218" stroke="#1b2a47" stroke-width="2"/>
+  <text x="120" y="117" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="14" fill="#2e5aa8" letter-spacing="5">BUILDERS</text>
+</svg>
